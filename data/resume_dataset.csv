@@ -1,0 +1,501 @@
+resume_id,skills,experience,education,resume_text,job_description,label
+0,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+1,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+2,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+3,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+4,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+5,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+6,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+7,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+8,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+9,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+10,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+11,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+12,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+13,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+14,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+15,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+16,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+17,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+18,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+19,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+20,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+21,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+22,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+23,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+24,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+25,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+26,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+27,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+28,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+29,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+30,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+31,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+32,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+33,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+34,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+35,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+36,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+37,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+38,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+39,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+40,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+41,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+42,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+43,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+44,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+45,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+46,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+47,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+48,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+49,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+50,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+51,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+52,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+53,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+54,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+55,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+56,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+57,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+58,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+59,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+60,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+61,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+62,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+63,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+64,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+65,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+66,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+67,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+68,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+69,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+70,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+71,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+72,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+73,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+74,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+75,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+76,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+77,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+78,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+79,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+80,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+81,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+82,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+83,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+84,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+85,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+86,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+87,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+88,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+89,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+90,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+91,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+92,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+93,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+94,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+95,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+96,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+97,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+98,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+99,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+100,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+101,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+102,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+103,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+104,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+105,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+106,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+107,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+108,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+109,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+110,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+111,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+112,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+113,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+114,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+115,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+116,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+117,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+118,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+119,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+120,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+121,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+122,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+123,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+124,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+125,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+126,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+127,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+128,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+129,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+130,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+131,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+132,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+133,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+134,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+135,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+136,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+137,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+138,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+139,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+140,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+141,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+142,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+143,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+144,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+145,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+146,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+147,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+148,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+149,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+150,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+151,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+152,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+153,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+154,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+155,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+156,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+157,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+158,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+159,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+160,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+161,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+162,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+163,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+164,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+165,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+166,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+167,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+168,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+169,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+170,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+171,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+172,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+173,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+174,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+175,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+176,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+177,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+178,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+179,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+180,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+181,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+182,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+183,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+184,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+185,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+186,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+187,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+188,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+189,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+190,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+191,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+192,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+193,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+194,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+195,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+196,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+197,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+198,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+199,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+200,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+201,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+202,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+203,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+204,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+205,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+206,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+207,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+208,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+209,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+210,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+211,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+212,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+213,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+214,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+215,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+216,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+217,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+218,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+219,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+220,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+221,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+222,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+223,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+224,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+225,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+226,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+227,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+228,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+229,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+230,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+231,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+232,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+233,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+234,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+235,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+236,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+237,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+238,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+239,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+240,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+241,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+242,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+243,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+244,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+245,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+246,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+247,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+248,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+249,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+250,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+251,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+252,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+253,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+254,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+255,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+256,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+257,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+258,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+259,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+260,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+261,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+262,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+263,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+264,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+265,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+266,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+267,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+268,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+269,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+270,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+271,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+272,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+273,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+274,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+275,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+276,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+277,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+278,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+279,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+280,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+281,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+282,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+283,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+284,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+285,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+286,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+287,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+288,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+289,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+290,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+291,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+292,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+293,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+294,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+295,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+296,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+297,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+298,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+299,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+300,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+301,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+302,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+303,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+304,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+305,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+306,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+307,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+308,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+309,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+310,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+311,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+312,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+313,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+314,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+315,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+316,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+317,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+318,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+319,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+320,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+321,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+322,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+323,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+324,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+325,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+326,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+327,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+328,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+329,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+330,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+331,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+332,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+333,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+334,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+335,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+336,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+337,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+338,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+339,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+340,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+341,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+342,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+343,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+344,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+345,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+346,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+347,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+348,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+349,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+350,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+351,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+352,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+353,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+354,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+355,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+356,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+357,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+358,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+359,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+360,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+361,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+362,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+363,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+364,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+365,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+366,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+367,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+368,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+369,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+370,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+371,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+372,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+373,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+374,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+375,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+376,"NLP, Deep Learning, PyTorch",2,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+377,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+378,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+379,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+380,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+381,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+382,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+383,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+384,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+385,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+386,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+387,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+388,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+389,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+390,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+391,"Python, Machine Learning, Pandas",0,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+392,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+393,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+394,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+395,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+396,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+397,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+398,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+399,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+400,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+401,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+402,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+403,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+404,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+405,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+406,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+407,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+408,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+409,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+410,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+411,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+412,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+413,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+414,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+415,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+416,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+417,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+418,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+419,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,AI Engineer with NLP and Deep Learning,0
+420,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+421,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+422,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+423,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+424,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+425,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+426,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Data Scientist with Python and ML experience,0
+427,"Java, Spring Boot, SQL",3,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+428,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+429,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+430,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+431,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+432,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+433,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Data Scientist with Python and ML experience,0
+434,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+435,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+436,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+437,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+438,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+439,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+440,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+441,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+442,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+443,"Python, Machine Learning, Pandas",2,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+444,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+445,"Java, Spring Boot, SQL",4,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+446,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Frontend Developer with React,0
+447,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+448,"React, JavaScript, HTML, CSS",0,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+449,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+450,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+451,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+452,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+453,"Python, Machine Learning, Pandas",4,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+454,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+455,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+456,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+457,"Data Analysis, Excel, Power BI",1,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+458,"NLP, Deep Learning, PyTorch",5,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+459,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Data Analyst with Excel and Power BI,0
+460,"NLP, Deep Learning, PyTorch",4,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+461,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+462,"React, JavaScript, HTML, CSS",1,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+463,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+464,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+465,"React, JavaScript, HTML, CSS",4,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+466,"NLP, Deep Learning, PyTorch",3,B.Tech,NLP Deep Learning PyTorch,Data Analyst with Excel and Power BI,0
+467,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+468,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,AI Engineer with NLP and Deep Learning,0
+469,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Backend Developer using Java and Spring,0
+470,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+471,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+472,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+473,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,AI Engineer with NLP and Deep Learning,0
+474,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Backend Developer using Java and Spring,0
+475,"Java, Spring Boot, SQL",2,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+476,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+477,"Java, Spring Boot, SQL",0,B.Tech,Java Spring Boot SQL,Frontend Developer with React,0
+478,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+479,"Data Analysis, Excel, Power BI",3,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+480,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+481,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,AI Engineer with NLP and Deep Learning,0
+482,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+483,"React, JavaScript, HTML, CSS",5,B.Tech,React JavaScript HTML CSS,Data Analyst with Excel and Power BI,0
+484,"Data Analysis, Excel, Power BI",0,B.Tech,Data Analysis Excel Power BI,Data Scientist with Python and ML experience,0
+485,"Java, Spring Boot, SQL",1,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+486,"Python, Machine Learning, Pandas",5,B.Tech,Python Machine Learning Pandas,Data Scientist with Python and ML experience,1
+487,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+488,"Data Analysis, Excel, Power BI",4,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+489,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Frontend Developer with React,0
+490,"NLP, Deep Learning, PyTorch",0,B.Tech,NLP Deep Learning PyTorch,Frontend Developer with React,0
+491,"Python, Machine Learning, Pandas",1,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
+492,"Data Analysis, Excel, Power BI",2,B.Tech,Data Analysis Excel Power BI,Backend Developer using Java and Spring,0
+493,"React, JavaScript, HTML, CSS",3,B.Tech,React JavaScript HTML CSS,Frontend Developer with React,1
+494,"Java, Spring Boot, SQL",5,B.Tech,Java Spring Boot SQL,Backend Developer using Java and Spring,1
+495,"React, JavaScript, HTML, CSS",2,B.Tech,React JavaScript HTML CSS,Data Scientist with Python and ML experience,0
+496,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,Backend Developer using Java and Spring,0
+497,"Data Analysis, Excel, Power BI",5,B.Tech,Data Analysis Excel Power BI,Data Analyst with Excel and Power BI,1
+498,"NLP, Deep Learning, PyTorch",1,B.Tech,NLP Deep Learning PyTorch,AI Engineer with NLP and Deep Learning,1
+499,"Python, Machine Learning, Pandas",3,B.Tech,Python Machine Learning Pandas,Data Analyst with Excel and Power BI,0
