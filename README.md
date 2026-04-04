@@ -1,4 +1,4 @@
-##📄 ATS Score Generation using Deep Learning vs Machine Learning
+### 📄 ATS Score Generation using Deep Learning vs Machine Learning
 
 📌 Overview
 
