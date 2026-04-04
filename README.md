@@ -2,7 +2,7 @@
 
 📌 Overview
 
-This project focuses on building an **AI-powered Applicant Tracking System (ATS) score generator** by comparing **Deep Learning (DL)** and **Machine Learning (ML)** approaches.
+This project focuses on building an **Applicant Tracking System (ATS) score generator** by comparing **Deep Learning (DL)** and **Machine Learning (ML)** approaches.
 
 The system evaluates resumes against job descriptions and generates ATS scores, helping analyze which approach performs better in real-world resume screening scenarios.
 
