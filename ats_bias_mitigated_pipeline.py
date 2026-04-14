@@ -164,3 +164,59 @@ top_10 = output_df.sort_values(by="final_score", ascending=False).head(10)
 
 print("\nTOP 10 PERFORMERS:")
 print(top_10)
+
+
+
+# -------------------------------
+# VISUALIZATION: CONFUSION MATRIX
+# -------------------------------
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+
+cm = confusion_matrix(y_test, y_pred)
+
+plt.figure(figsize=(6, 5))
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=["Rejected", "Selected"])
+disp.plot(cmap="Blues", values_format="d")
+plt.title("Confusion Matrix - ATS Resume Screening")
+plt.grid(False)
+plt.show()
+
+
+# -------------------------------
+# VISUALIZATION: FINAL SCORE DISTRIBUTION
+# -------------------------------
+plt.figure(figsize=(10, 6))
+
+plt.hist(
+    output_df["final_score"],
+    bins=15,
+    edgecolor="black"
+)
+
+plt.title("Distribution of Final ATS Scores")
+plt.xlabel("Final Score")
+plt.ylabel("Number of Candidates")
+plt.grid(True, linestyle="--", alpha=0.5)
+
+plt.show()
+
+
+# -------------------------------
+# OPTIONAL: TOP 10 SCORE BAR CHART
+# -------------------------------
+plt.figure(figsize=(12, 6))
+
+top_10_sorted = top_10.sort_values(by="final_score", ascending=True)
+
+plt.barh(
+    top_10_sorted["resume_id"].astype(str),
+    top_10_sorted["final_score"]
+)
+
+plt.title("Top 10 Candidate Final Scores")
+plt.xlabel("Final Score")
+plt.ylabel("Resume ID")
+plt.grid(True, linestyle="--", alpha=0.5)
+
+plt.show()
